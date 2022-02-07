@@ -28,6 +28,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * Which is the HTTP method to delete resource
 * How to request REST API
 
-## Authors
-Kashu Happy: knashipa@gmail.com
-Gedion Saiyuah: gedionsaiyuah@gmail.com
+# Authors
+* Kashu Happy: knashipa@gmail.com
+* Gedion Saiyuah: gedionsaiyuah@gmail.com
