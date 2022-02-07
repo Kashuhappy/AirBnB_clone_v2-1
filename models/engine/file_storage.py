@@ -77,3 +77,13 @@ class FileStorage:
         elif cls is None:
             total = len(self.__objects)
         return total
+
+    def get(self, cls, id):
+        """Retrieve an object"""
+        if cls is not None and type(cls) is str and id is not None and\
+           type(id) is str and cls in classes:
+            key = cls + '.' + id
+            obj = self.__objects.get(key, None)
+            return obj
+        else:
+            return None
