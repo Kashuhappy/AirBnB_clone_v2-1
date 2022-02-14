@@ -1,1 +1,1 @@
-# 0x05. AirBnB clone - Web Dynamic
+# 0x05. AirBnB clone - Restful API
